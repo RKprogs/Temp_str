@@ -1,0 +1,21 @@
+Since joining the team in October, I have focused on building a strong foundation in ETL processes, particularly with tools such as Informatica and PL/SQL. This initial phase allowed me to familiarize myself with the core concepts necessary for my work.
+
+Key Achievements:
+
+ETL Basics and Tool Familiarization:
+I spent my initial time solidifying my knowledge in Informatica and PL/SQL, which enabled me to gain a comprehensive understanding of ETL processes. This foundational knowledge has been crucial in ensuring the successful completion of subsequent tasks.
+
+Bash Script and Informatica Workflow Testing Story:
+My first assigned task was related to a bash script, which also involved workflow testing in Informatica. Given my prior experience with Informatica, I was able to complete this story successfully, demonstrating my ability to apply existing knowledge effectively.
+
+Informatica Mapping Story:
+I was subsequently assigned a mapping story within Informatica, which provided me with deeper insights into the tool and ETL processes. Successfully completing this task further expanded my knowledge and strengthened my expertise in the field.
+
+Team and Squad Support:
+Throughout my work, I have received valuable support from both my team and squad. They have been instrumental in helping me resolve any queries or challenges I encountered, fostering a collaborative and efficient work environment.
+
+Current Focus on Stored Procedure Analysis:
+I am currently working on a stored procedure analysis story, further advancing my technical expertise. In parallel, I am continuing to expand my knowledge of the field to ensure ongoing professional development.
+
+Conclusion:
+I am pleased with the progress I’ve made since joining the team and am committed to further enhancing my skills in ETL and related technologies. I look forward to contributing more to the team and taking on additional challenges as I continue to grow in my role.
